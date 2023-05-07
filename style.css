@@ -500,7 +500,7 @@ padding: 100px 0;
 }
 /*-----contact-form-----*/
 .contactform{
-width: 500px;
+width: 80%;
 font-size: 15px;
 margin: 100px;
 padding: 20px;
@@ -508,9 +508,9 @@ border: solid 2px green;
 border-radius: 20px;
 }
 .contactform input, label,button{
-    width: 90%;
+    width: 80%;
     padding: 10px;
-    margin: 100px auto;
+    margin: 100px;
     box-sizing: content-box;
 }
 textarea{
