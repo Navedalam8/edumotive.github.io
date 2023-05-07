@@ -500,7 +500,7 @@ padding: 100px 0;
 }
 /*-----contact-form-----*/
 .contactform{
-width: 80%;
+width: 500px;
 font-size: 15px;
 margin: 100px;
 padding: 20px;
@@ -516,7 +516,7 @@ border-radius: 20px;
 textarea{
 width: 450px;    
 height: 100px;
-margin-left: 10px;
+margin-left: 11px;
 }
 
 .submitbutton{
