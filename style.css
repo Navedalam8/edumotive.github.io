@@ -18,7 +18,7 @@ nav{
     align-items: center;
 }
 nav img{
-    width: 150px;
+    width: 100px;
 }
 .nav-links{
 flex: 1;
@@ -41,7 +41,7 @@ text-align: right;
     content: '';
     width: 0%;
     height: 2px;
-    background: #de4a30;
+    background: #f44336;
     display: block;
     margin: auto;
     transition: 0.5s;
@@ -71,9 +71,7 @@ text-align: right;
     font-size: 14px;
     color: white;
     
-    
 }
-
 .hero-btn{
     display: inline-block;
     text-decoration: none;
@@ -84,11 +82,11 @@ text-align: right;
     background: transparent;
     position: relative;
     cursor: pointer;
-border-radius: 5em;
+
 }
 .hero-btn:hover{
     border: 1px solid #f44336;
-    background: #36f43c;
+    background: #f44336;
     transition: 1s;
 }
 nav .fa{
