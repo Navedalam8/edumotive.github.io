@@ -508,9 +508,9 @@ border: solid 2px green;
 border-radius: 20px;
 }
 .contactform input, label,button{
-    width: 90%;
+    width: 80%;
     padding: 10px;
-    margin: 10px;
+    margin: 100px auto;
     box-sizing: content-box;
 }
 textarea{
